@@ -1,0 +1,10 @@
+{
+  "id": "com.4khdhub.only",
+  "version": "1.0.0",
+  "name": "4KHDHub Only",
+  "description": "Scrapes direct streams from 4khdhub.one",
+  "logo": "https://i.imgur.com/4khdhub.png",
+  "resources": ["stream"],
+  "types": ["movie", "series"],
+  "idPrefixes": ["tt"]
+}
